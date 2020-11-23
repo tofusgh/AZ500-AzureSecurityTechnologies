@@ -25,6 +25,7 @@ In this lab, you will complete the following exercise:
 - Exercise 1: Implement Security Center
 
 ### Exercise 1: Implement Security Center
+### Estimated Time: ??
 
 In this exercise, you will complete the following tasks:
 
